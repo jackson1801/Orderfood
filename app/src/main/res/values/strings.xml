@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">OrderFood</string>
+    <string name="create_account">Create a new account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="show_more">Show more</string>
+    <string name="show_more_description">You can connect your social media accounts to create an account on YumYum</string>
+    <string name="show_less">Show less</string>
+    <string name="sign_in_google"> Continue with Google</string>
+    <string name="facebook"> Facebook</string>
+    <string name="signup_ask"> Don\'t have an account? </string>
+    <string name="signin_ask">Already have an account? </string>
+    <string name="click_here">Click here</string>
+    <string name="_continue">Continue</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="reset_password">Reset your password</string>
+    <string name="reset_new_password">Reset new password</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="description_reset">Keep your phone! We will texted you a verification code to your phone number</string>
+    <string name="later_text"><u>Later, let me explore the food first</u></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="remember_me">Remember me</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="logout">Logout</string>
+
 </resources>
