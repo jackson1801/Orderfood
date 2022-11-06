@@ -64,6 +64,7 @@
     <color name="md_theme_dark_scrim">#000000</color>
 
     <color name="facebook">#1877f2</color>
+    <color name="black">#000000</color>
 
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>

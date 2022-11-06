@@ -37,7 +37,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:fontFamily="@font/regular"
-                    android:text="Hi, User"
+                    android:hint="Hi, User"
                     android:textSize="18dp"
                     android:textStyle="italic" />
 
